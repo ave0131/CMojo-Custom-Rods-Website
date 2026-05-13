@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,4 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # CMojo-Custom-Rods-Website
 Repository to track the creation of the CMojo Custom Rods website.
->>>>>>> ee36dca1db9b5553fe40e6ccd53602e683d87aa8
