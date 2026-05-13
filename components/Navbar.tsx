@@ -3,7 +3,7 @@ import Link from "next/link"
 
 export default function Navbar() {
     return (
-        <header className="w-full bg-black-900 px-6 py-4 flex items-center justify-between border-b-2 border-red-600 sticky top-0 z-50">
+        <header className="w-full bg-black px-6 py-4 flex items-center justify-between border-b-2 border-red-600 sticky top-0 z-50">
 
             {/* Logo and Site Name */}
             <div className="flex items-center gap-3 w-1/3">
