@@ -2,6 +2,7 @@
 export default function Home() {
   return (
     <main className="bg-white min-h-screen">
+      
       {/* The Hero Container */}
       <section className="px-6 py-20 text-center">
 
