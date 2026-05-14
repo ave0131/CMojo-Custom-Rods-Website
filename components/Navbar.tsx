@@ -19,7 +19,8 @@ export default function Navbar() {
                 </span>
             </div>
 
-            <nav className="flex items-center justify-center gap-6 w-1/3">
+            {/* Navigation Links */}
+            <nav className="hidden md:flex items-center justify-center gap-6 w-1/3">
                 <Link href="/" className="text-white text-sm font-medium hover:text-red-500 transition-colors">
                     Home
                 </Link>
@@ -33,7 +34,8 @@ export default function Navbar() {
                 </Link>
             </nav>
 
-            <div className="flex items-center justify-end w-1/3">
+            {/* Call to Action Button */}
+            <div className="hidden md:flex items-center justify-end w-1/3">
                 <Link href="/contact" className="bg-red-600 text-white px-4 py-2 text-sm font-bold uppercase tracking-widest hover:bg-red-700 transition-all">
                     Get a Quote
                 </Link>
